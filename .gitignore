@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.video-agent/
+output/
+validation-state/
+validation-output/
